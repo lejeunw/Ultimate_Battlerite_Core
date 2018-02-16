@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Champion>
+  <Name>Jade</Name>
+  <Type>Ranged</Type>
+  <Description>A mysterious gunslinger with a score to settle. Born with eagle-eyes and armed with a lethal sniper rifle, Jade�s pinpoint accuracy is a serious threat for anyone who enters the arena. For close encounters she prefers a good old combination of stealth and homemade revolvers. The rumor says Jade joined the arena games to find the villain who killed her brother. Will she complete her dark quest of vengeance?</Description>
+  <Rites>
+    <Rite>
+      <Name>Deadly Focus</Name>
+      <Type>M2</Type>
+      <Description>Snipe deals 6 bonus damage.</Description>
+    </Rite>
+    <Rite>
+      <Name>Shadow Shot</Name>
+      <Type>M2</Type>
+      <Description>Snipe hits heal you for 8 health.</Description>
+    </Rite>
+    <Rite>
+      <Name>Concussion Bomb</Name>
+      <Type>Space</Type>
+      <Description>Blast Vault Stun duration is increased by 0.75s.</Description>
+    </Rite>
+  </Rites>
+</Champion>

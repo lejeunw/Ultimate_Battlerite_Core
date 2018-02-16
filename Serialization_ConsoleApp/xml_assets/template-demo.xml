@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Champion>
+  <Name>champ_name</Name>
+  <Type>champ_type</Type>
+  <Description>champ_desc</Description>
+  <Rites>
+    <Rite>
+      <Name>rite_name_1</Name>
+      <Type>rite_type_1</Type>
+      <Description>rite_desc_1</Description>
+    </Rite>
+    <Rite>
+      <Name>rite_name_2</Name>
+      <Type>rite_type_2</Type>
+      <Description>rite_desc_2</Description>
+    </Rite>
+    <Rite>
+      <Name>rite_name_3</Name>
+      <Type>rite_type_3</Type>
+      <Description>rite_desc_3</Description>
+    </Rite>
+    <Rite>
+      <Name>rite_name_4</Name>
+      <Type>rite_type_4</Type>
+      <Description>rite_desc_4</Description>
+    </Rite>
+  </Rites>
+</Champion>

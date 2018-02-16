@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Champion>
+  <Name>Alysia</Name>
+  <Type>Ranged</Type>
+  <Description>From the frozen north comes the ice sculptor Alysia. Her power allows her to wield ice with both grace and deadly precision. She can damage and freeze her enemies from a distance, while shielding her allies with ice. Obsessed with shapes and form, she left her icy fortress of solitude to seek inspiration in the arena.</Description>
+  <Rites>
+    <Rite>
+      <Name>Ice Breaker</Name>
+      <Type>M2</Type>
+      <Description>Ice Lance deals 3 bonus damage and breaks Freeze before dealing damage.</Description>
+    </Rite>
+    <Rite>
+      <Name>Piercing Cold</Name>
+      <Type>M2</Type>
+      <Description>Ice Lance pierces enemies and range is increased by 10%. Damage reduces by 30% per hit.</Description>
+    </Rite>
+  </Rites>
+</Champion>

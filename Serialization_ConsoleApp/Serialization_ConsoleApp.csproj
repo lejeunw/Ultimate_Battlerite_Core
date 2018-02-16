@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DataStructures\DataStructures.csproj">
+      <Project>{9180A765-715D-48E0-99E7-B8A933CADD36}</Project>
+      <Name>DataStructures</Name>
+    </ProjectReference>
+  </ItemGroup>
+</Project>

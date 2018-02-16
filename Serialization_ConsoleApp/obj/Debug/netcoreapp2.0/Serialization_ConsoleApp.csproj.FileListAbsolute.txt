@@ -1,0 +1,12 @@
+C:\Users\lejeun_w\RiderProjects\Ultimate_Battlerite_Core\Serialization_ConsoleApp\bin\Debug\netcoreapp2.0\Serialization_ConsoleApp.deps.json
+C:\Users\lejeun_w\RiderProjects\Ultimate_Battlerite_Core\Serialization_ConsoleApp\bin\Debug\netcoreapp2.0\Serialization_ConsoleApp.runtimeconfig.json
+C:\Users\lejeun_w\RiderProjects\Ultimate_Battlerite_Core\Serialization_ConsoleApp\bin\Debug\netcoreapp2.0\Serialization_ConsoleApp.runtimeconfig.dev.json
+C:\Users\lejeun_w\RiderProjects\Ultimate_Battlerite_Core\Serialization_ConsoleApp\bin\Debug\netcoreapp2.0\Serialization_ConsoleApp.dll
+C:\Users\lejeun_w\RiderProjects\Ultimate_Battlerite_Core\Serialization_ConsoleApp\bin\Debug\netcoreapp2.0\Serialization_ConsoleApp.pdb
+C:\Users\lejeun_w\RiderProjects\Ultimate_Battlerite_Core\Serialization_ConsoleApp\bin\Debug\netcoreapp2.0\DataStructures.dll
+C:\Users\lejeun_w\RiderProjects\Ultimate_Battlerite_Core\Serialization_ConsoleApp\bin\Debug\netcoreapp2.0\DataStructures.pdb
+C:\Users\lejeun_w\RiderProjects\Ultimate_Battlerite_Core\Serialization_ConsoleApp\obj\Debug\netcoreapp2.0\Serialization_ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\lejeun_w\RiderProjects\Ultimate_Battlerite_Core\Serialization_ConsoleApp\obj\Debug\netcoreapp2.0\Serialization_ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\lejeun_w\RiderProjects\Ultimate_Battlerite_Core\Serialization_ConsoleApp\obj\Debug\netcoreapp2.0\Serialization_ConsoleApp.AssemblyInfo.cs
+C:\Users\lejeun_w\RiderProjects\Ultimate_Battlerite_Core\Serialization_ConsoleApp\obj\Debug\netcoreapp2.0\Serialization_ConsoleApp.dll
+C:\Users\lejeun_w\RiderProjects\Ultimate_Battlerite_Core\Serialization_ConsoleApp\obj\Debug\netcoreapp2.0\Serialization_ConsoleApp.pdb

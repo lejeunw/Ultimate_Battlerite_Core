@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures", "DataStructures\DataStructures.csproj", "{9180A765-715D-48E0-99E7-B8A933CADD36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serialization_ConsoleApp", "Serialization_ConsoleApp\Serialization_ConsoleApp.csproj", "{36F2A74A-6F11-4FCA-9D45-0168909FC901}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9180A765-715D-48E0-99E7-B8A933CADD36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9180A765-715D-48E0-99E7-B8A933CADD36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9180A765-715D-48E0-99E7-B8A933CADD36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9180A765-715D-48E0-99E7-B8A933CADD36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36F2A74A-6F11-4FCA-9D45-0168909FC901}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36F2A74A-6F11-4FCA-9D45-0168909FC901}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36F2A74A-6F11-4FCA-9D45-0168909FC901}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36F2A74A-6F11-4FCA-9D45-0168909FC901}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
